@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Page 5
 permalink: /page5
 ---

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Page 4
 permalink: /page4
+menu: true
 ---
 
 # Header for page 4

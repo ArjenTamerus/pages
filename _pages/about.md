@@ -1,3 +1,9 @@
+---
+title: About us
+permalink: /about
+menu: true
+---
+
 # About Pages Corp Ltd PLC etc
 
 ## Who we are

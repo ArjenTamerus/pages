@@ -1,7 +1,7 @@
 ---
-layout: default
 title: Page 1
 permalink: /page1
+menu: true
 ---
 
 # Header for page 1
