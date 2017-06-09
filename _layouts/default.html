@@ -23,11 +23,13 @@
     </section>
     
     <section class="pages-menu">
-      {% for page in site.pages %}
-        <ul>
+      <ul>
+        {% for page in site.pages %}
+        <li>
           <a href="{{ page.url }}">{{ page.title }}</a>
+        </li>
+        {% endfor %}
       </ul>
-      {% endfor %}
     </section>
 
     <section class="main-content">
