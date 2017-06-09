@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 {% include footer.html %}
+<b>Hi thar two!</b>
 You can use the [editor on GitHub](https://github.com/IBeArjen/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site (thanks Jekyll!), from the content in your Markdown files.
