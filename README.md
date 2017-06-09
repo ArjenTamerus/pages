@@ -2,7 +2,7 @@
 {% include footer.html %}
 <b>Hi thar two!</b>
 
-Moar text!
+[Moar text!](about.md)
 
 ### Howto header
 You can use the [editor on GitHub](https://github.com/IBeArjen/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
